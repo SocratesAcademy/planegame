@@ -9,9 +9,9 @@ https://github.com/computational-class/aircraftbattle
 
 ## 使用pyinstaller打包成可执行软件
 
-首先，要确保安装好pyinstaller
+1. 首先，要确保安装好pyinstaller
 
-1. 需要将aircraftbattle.py改成绝对路径名：
+2. 需将aircraftbattle.py中的路径名改为绝对路径：
 
         # 获取图片库和声音库路径
         # pyinstaller -F -w aircraftbattle.py
@@ -20,6 +20,6 @@ https://github.com/computational-class/aircraftbattle
         
         sound_folder ='/Users/datalab/github/planegame/sounds/'
 
-2. 在terminal中使用pyinstaller打包
+3. 在terminal中使用pyinstaller打包
 
 > pyinstaller -F -w aircraftbattle.py
