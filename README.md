@@ -13,11 +13,12 @@ https://github.com/computational-class/aircraftbattle
 
 1. 需要将aircraftbattle.py改成绝对路径名：
 
-    # 获取图片库和声音库路径
-    # pyinstaller -F -w aircraftbattle.py
+        > # 获取图片库和声音库路径
+        > # pyinstaller -F -w aircraftbattle.py
     
-    img_dir = '/Users/datalab/github/planegame/pic/'
-    sound_folder ='/Users/datalab/github/planegame/sounds/'
+        img_dir = '/Users/datalab/github/planegame/pic/'
+        
+        sound_folder ='/Users/datalab/github/planegame/sounds/'
 
 2. 在terminal中使用pyinstaller打包
 
