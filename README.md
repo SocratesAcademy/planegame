@@ -4,7 +4,7 @@
 
 https://github.com/computational-class/aircraftbattle
 
-推荐使用Github Desktop下载到本机，例如我放在/github/aircraftbattle文件夹当中。
+推荐使用Github Desktop下载到本机，例如我放在/github/planegame 文件夹当中。
 
 
 ## 使用pyinstaller打包成可执行软件
