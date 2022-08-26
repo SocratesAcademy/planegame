@@ -23,3 +23,5 @@ https://github.com/computational-class/aircraftbattle
 3. 在terminal中使用pyinstaller打包
 
 > pyinstaller -F -w aircraftbattle.py
+
+打包的aircraftbattle.app，可以在Mac电脑运行 https://github.com/SocratesAcademy/planegame/files/9432162/aircraftbattle.zip
